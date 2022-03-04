@@ -29,7 +29,7 @@
         "email"
     ],
     "userpoolClientLambdaRole": "reacta4caaaf28_userpoolclient_lambda_role",
-    "userpoolClientSetAttributes": false,
+    "userpoolClientSetAttributes": true,
     "sharedId": "4caaaf28",
     "resourceName": "reactawsamplifybasic4caaaf28",
     "authSelections": "identityPoolAndUserPool",
